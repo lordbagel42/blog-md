@@ -1,5 +1,19 @@
-This is your new *vault*.
+---
+title: First post
+description: First post.
+date: '2023-4-14'
+categories:
+  - sveltekit
+  - svelte
+published: true
+---
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+## Markdown
 
-When you're ready, delete this note and make the vault your own.
+Hey friends! 👋
+
+```ts
+function greet(name: string) {
+	console.log(`Hey ${name}! 👋`);
+}
+```
